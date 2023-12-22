@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ru.kolodin.calculator"},{"l":"ru.kolodin.calculator.model"},{"l":"ru.kolodin.calculator.presenter"},{"l":"ru.kolodin.calculator.View"},{"l":"ru.kolodin.calculator.View.commands"}];updateSearchResults();
